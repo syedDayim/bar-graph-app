@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Open Sans';
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-size: 20px;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-family: 'Open Sans';
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+body {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.chart text {
+  fill: black;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  text-anchor: end;
+}
